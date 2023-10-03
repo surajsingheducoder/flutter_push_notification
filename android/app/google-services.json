@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "730574833504",
+    "project_id": "android-apps-86a5b",
+    "storage_bucket": "android-apps-86a5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730574833504:android:63ce628a7ece7bbbd78005",
+        "android_client_info": {
+          "package_name": "com.example.push_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730574833504-07gftu0ucf2qra3c99vk2j2gvm4qs5jr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi873InUU0vgLSho9f9ziNF1eUHDE9b5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730574833504-07gftu0ucf2qra3c99vk2j2gvm4qs5jr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "730574833504-b6af80ca4k0higjo22hjotnfhotm51uj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseFlutterPushNotification"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
